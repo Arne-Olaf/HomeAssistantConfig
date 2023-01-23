@@ -1,1 +1,4 @@
+secrets.yaml
+home-assistant.*
 zwave_device_config.yaml
+.vscode
